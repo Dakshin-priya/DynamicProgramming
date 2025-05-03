@@ -1,6 +1,6 @@
 # DynamicProgramming
 
-## Approach: Dynamic Programming
+## Approach: 
 
 ### Top‑Down (Memoization)
 
