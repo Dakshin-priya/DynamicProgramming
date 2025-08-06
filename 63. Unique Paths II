@@ -22,7 +22,6 @@ class Solution {
 
         return dp[m][n];
     }
-
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m= obstacleGrid.length;
         int n= obstacleGrid[0].length;
